@@ -35,13 +35,11 @@
 
 
 ## To solve the question 
-    ** Solution : ** "ExamCookerKindaGoated:)"
-    players enter the string/number and get points
+** Solution : ** < ExamCookerKindaGoated:) > </br>
+players enter the string/number and get points
 
 ## Description 
-
 Discover the hidden key that transforms academic success. Unveil this secret to unlock unparalleled performance and confidence in exams.
-
 
 ## Hints
 
