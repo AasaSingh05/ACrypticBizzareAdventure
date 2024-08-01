@@ -11,7 +11,7 @@
 </tr>
 <tr>
     <td>** Entry Point : ** </td>
-    <td> The following two images:
+    <td> The following two images: </br>
 			- The encrypted image </br>
 			- The word search</td>
 </tr>
