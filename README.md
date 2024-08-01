@@ -2,8 +2,8 @@
 
 <table border=3 >
 <tr>
-    <td>** Level : 4 **</td>
-    <td> </td>
+    <td>** Level : **</td>
+    <td> 4 </td>
 </tr>
 <tr>
     <td>** Mode : **</td>
